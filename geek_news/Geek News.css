@@ -1,0 +1,36 @@
+*{color: antiquewhite;
+
+}
+
+body {background-color: black;}
+
+
+.date{color:rgb(103, 88, 88)
+    ;}
+    
+    h1{text-align: center; padding: 0px; border: 0px; box-sizing: border-box;}
+    
+    #menu{text-align: center;}
+    header a{
+        background-color: rgba(235, 168, 97, 0.814);
+        display: inline-flex ;
+        text-decoration: none;
+        font-weight: bold;
+        padding: 5px 50px 5px 50px;
+        
+        margin: 0px auto;
+    }
+
+    .container{
+        width: 1366px; 
+        margin: 0 auto 0 auto;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    #anime{
+        background-color: rgba(255, 179, 72, 0.603);
+    }
+
+    #manga{
+        background-color: rgba(255, 231, 231, 0.677);
+    }
